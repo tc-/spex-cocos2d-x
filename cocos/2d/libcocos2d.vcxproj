@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectName>libcocos2d</ProjectName>
-    <ProjectGuid>{98A51BA8-FC3A-415B-AC8F-8C7BD464E93E}</ProjectGuid>
+    <ProjectGuid>{BFD2EDAB-F13D-4E6A-B403-CEB705E857E4}</ProjectGuid>
     <RootNamespace>cocos2d-x.win32</RootNamespace>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
