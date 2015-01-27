@@ -79,9 +79,6 @@
     <Filter Include="extension\GUI\CCScrollView">
       <UniqueIdentifier>{a1f539bc-d5be-4224-a4d2-01c0b6f17d6e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="extension\physics_nodes">
-      <UniqueIdentifier>{1de7fce7-0dee-4571-8fcd-43eb617aaf8b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="cocosdenshion\Header Files">
       <UniqueIdentifier>{f42979de-0079-4eba-b469-81ebff9ec588}</UniqueIdentifier>
     </Filter>
@@ -795,12 +792,6 @@
     </ClCompile>
     <ClCompile Include="..\..\extensions\GUI\CCScrollView\CCTableViewCell.cpp">
       <Filter>extension\GUI\CCScrollView</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\extensions\physics-nodes\CCPhysicsDebugNode.cpp">
-      <Filter>extension\physics_nodes</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\extensions\physics-nodes\CCPhysicsSprite.cpp">
-      <Filter>extension\physics_nodes</Filter>
     </ClCompile>
     <ClCompile Include="..\audio\win32\MciPlayer.cpp">
       <Filter>cocosdenshion\Source Files</Filter>
@@ -1921,12 +1912,6 @@
     </ClInclude>
     <ClInclude Include="..\..\extensions\GUI\CCScrollView\CCTableViewCell.h">
       <Filter>extension\GUI\CCScrollView</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\extensions\physics-nodes\CCPhysicsDebugNode.h">
-      <Filter>extension\physics_nodes</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\extensions\physics-nodes\CCPhysicsSprite.h">
-      <Filter>extension\physics_nodes</Filter>
     </ClInclude>
     <ClInclude Include="..\..\extensions\cocos-ext.h">
       <Filter>extension</Filter>
